@@ -3,9 +3,9 @@
 # 𝐀𝐍𝐘 𝐈𝐒𝐒𝐔𝐄𝐒 𝐎𝐑 𝐀𝐃𝐃𝐈𝐍𝐆 𝐌𝐎𝐑𝐄 𝐓𝐇𝐈𝐍𝐆𝐒 𝐂𝐀𝐍 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐌𝐄
 
 # ---------- EDIT THESE BEFORE DEPLOY ----------
-BOT_TOKEN   = "PUT_YOUR_BOT_TOKEN_HERE"    # from @BotFather
-API_ID      = 123456                       # from https://my.telegram.org
-API_HASH    = "your_api_hash_here"         # from https://my.telegram.org
+BOT_TOKEN   = "8376407286:AAEGsn96Rhuf6gP-x3DqlSpE1J7WnxpRGcY"    # from @BotFather
+API_ID      = 20366634                       # from https://my.telegram.org
+API_HASH    = "72095ec36984aa9ceb0dbaa9cec31559"         # from https://my.telegram.org
 
 OWNER_USERNAME = "@BOTSKINGDOMS"
 
